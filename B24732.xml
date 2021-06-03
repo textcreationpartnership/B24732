@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lords-Justices and council, a proclamation. Charles Porter, Tho: Coningesby. Whereas many of their Majesties horses belonging to the train of artillery, ...</title>
+            <author>Ireland. Lords Justices and Council.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24732</idno><idno type="EEBO-CITATION">99886510</idno>
+  <idno type="VID">186730</idno>
+  <idno type="EEBO-PROQUEST">2240890985</idno>
+  
+            <idno type="STC">Wing I451</idno>
+            <idno type="STC">Interim Tract Supplement Guide G. 5869[21]</idno>
+            <idno type="STC">ESTC R226113</idno>
+            <idno type="PROQUEST">ocm99886510</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886510e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24732)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186730)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:3[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lords-Justices and council, a proclamation. Charles Porter, Tho: Coningesby. Whereas many of their Majesties horses belonging to the train of artillery, ...</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+                  <author>Coningsby, Thomas Coningsby, Earl, 1656?-1729.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook assignee of Benjamin Tooke printer to the King and Queen at Their Majesties printing-house on Ormonde-Key,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>[1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>"Given at the Council-Chamber in Dublin, the 31st day of December, 1690.".</note>
+                  <note>Stolen or strayed army horses to be brought in.--Steele.</note>
+                  <note>Steele notation: Arms 193. belong- stody p.2) Shil- Majesties.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186730:1"/>
+            <head>
+               <figure>
+                  <head>
+                     <figure>
+                        <figDesc>monogram of 'W' (William) superimposed on 'M' (Mary)</figDesc>
+                     </figure> RR</head>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion on one side and the Scottish unicorn on the other</figDesc>
+                  <q xml:lang="frm">HO<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> SOIT <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>VI MAL Y <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ENS<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </q>
+                  <q xml:lang="frm">JE MEINTIENDRAY</q>
+               </figure>
+            </head>
+            <head>BY THE Lords-Justices AND COUNCIL, A PROCLAMATION.</head>
+            <opener>
+               <signed>
+                  <list>
+                     <item>CHARLES PORTER,</item>
+                     <item>THO: CONINGESBY.</item>
+                  </list>
+               </signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas many of Their Majesties Horses belong<g ref="char:EOLhyphen"/>ing to the Train of Artillery, Commissaries of Provisions, and others attending Their Maje<g ref="char:EOLhyphen"/>sties Army, have been taken away by divers Persons, and used by them, without License or Permission, and others are strayed and lost: To the end that all Their Majesties Subjects, as well Officers and Soldiers of the Army, as others, may have timely notice for bringing in and securing all such Horses as are in their Cu<g ref="char:EOLhyphen"/>stody, or known to be strayed. We think sit, and accordingly do hereby publish and make known to all Persons whatsoe<g ref="char:EOLhyphen"/>ver, that they and every of them do within the space of five and twenty days after publication hereof, bring in and deliver unto the Sheriffs of the seve<g ref="char:EOLhyphen"/>ral Counties wherein any such Horses are or shall be found, all such Horses, of Their Majesties as are in their Custody, taking the Receipt of such She<g ref="char:EOLhyphen"/>riff to whom he delivers the said Horses: And if after the said five and twen<g ref="char:EOLhyphen"/>ty days are expired, any Person or Persons shall presume to keep or conceal any of Their Majesties Horses aforesaid, he or they shall be proceeded against, and upon Conviction punished as Felons. And for Encouragement of those who shall give Obedience to this Our Proclamation: We do hereby declare, that such as shall within the time before mentioned bring in any of the said Horses to any of the Sheriffs aforesaid, or discover in whose Custody such Horses are, so as to be seized by the Sheriff, they shall upon the Sheriffs Receipt aforesaid of the delivery of them, receive ten Shillings for each Horse; And as a further Encouragement, We do hereby declare, that any Person who shall find out, discover and secure any of the said Horses after the time
+<pb facs="tcp:186730:2"/> before limited is expired, such Person shall not only receive the said ten Shil<g ref="char:EOLhyphen"/>lings for every Horse so secured or delivered, but also the further Summ of twenty shillings for each Horse, which said Summ shall be paid him by the Collector of the Customs or Excise of the Port or District next adjacent to the Habitation of the Sheriff to whom such Discovery shall be made, or unto whom such Horses shall be delivered upon a Note to be sent to such Collector by such Sheriff, acknowledging the Receipt of such Horse or Horses, in which said Note is to be expressed the Marks and Size, together with the Condition such Horse or Horses are in that are to be paid for by such Col<g ref="char:EOLhyphen"/>lector, who shall be allowed what he so pays upon his Account, which Note or Notes he is within two days after to send up unto <hi>John Davis Esq;</hi> Se<g ref="char:EOLhyphen"/>cretary to the Lords-Iustices, in Order to such further Directions to be gi<g ref="char:EOLhyphen"/>ven concerning such Horses, as by their Lordships shall be thought fit. And we do likewise hereby require the Sheriffs of the respective Counties to give their Receipt accordingly for what Horses they shall so receive, and to take care that they be well ke<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t until they shall receive our orders how to dispose of them, for which keeping they shall be paid upon notice, such summ or summs of money as shall be reasonable, and thereof from time to time they are to give an Ac<g ref="char:EOLhyphen"/>count to the Secretary aforesaid within two days after the Receipt of such Hor<g ref="char:EOLhyphen"/>ses as aforesaid. And whereas several Waggons or parts of Waggons belong<g ref="char:EOLhyphen"/>ing to Their Majesties Stores of Provisions have been seized by several Per<g ref="char:EOLhyphen"/>sons having no Right to them, are still Concealed, We do hereby Publish, that if any such Waggons or Parts of Waggons shall be found in the Custody or Possession of any Persons whatsoever, not discovering the same within twenty five days after the Publication of this Our Proclamation, such Person or Persons so Concealing such Waggons, or Parts of Waggons, shall be proceeded against as Concealers and Imbezelers of Their Majesties Goods, and Prosecuted as such with the utmost Severity of Law.</p>
+            <closer>
+               <dateline>Given at the <hi>Council-Chamber</hi> in <hi>Dublin,</hi>
+                  <date>the 31st Day of <hi>December,</hi> 1690. In the Second Year of Their Majesties Reign.</date>
+               </dateline>
+               <lb/> God Save the KING and QUEEN.<lb/>
+               <signed>
+                  <list>
+                     <item>Fran. Dublin,</item>
+                     <item>Drogheda,</item>
+                     <item>Longford,</item>
+                     <item>Granard,</item>
+                     <item>Anth. Midensis,</item>
+                     <item>Rob. Fitz-Gerald,</item>
+                     <item>Char: Meredith,</item>
+                     <item>Hen. Fane.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>Andrew Crook</hi> Assignee of <hi>Benjamin Tooke</hi> Printer to the King and Queen at Their Majesties Printing-house on <hi>Ormonde-Key.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
